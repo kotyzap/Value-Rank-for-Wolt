@@ -1,4 +1,4 @@
-# ValueRank for W
+# ValueRank for Wolt - Chrome/Comet Browser Extension
 
 A Chrome/Comet extension that ranks items on **wolt.com**, **wolt.de**, **wolt.cz** and other branches by the best **price per unit** (Kč/kg, €/l, …) and stamps the
 computed value onto every product card.
