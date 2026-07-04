@@ -1,8 +1,12 @@
 # ValueRank for W
 
-A Manifest V3 Chrome/Comet extension that ranks items on **wolt.com** and
-**wolt.cz** by the best **price per unit** (Kč/kg, €/l, …) and stamps the
+A Chrome/Comet extension that ranks items on **wolt.com**, **wolt.de**, **wolt.cz** and other branches by the best **price per unit** (Kč/kg, €/l, …) and stamps the
 computed value onto every product card.
+
+<div align="center">
+<img width="100%" alt="Value Rank for Wolt - reorder items by top-best-value" src="https://github.com/user-attachments/assets/f3c9fbfe-b9b7-4aa3-82fb-f6d10f57f0fd" />
+
+</div>
 
 ## Features
 
